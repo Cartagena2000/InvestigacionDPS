@@ -87,7 +87,8 @@
               "RelativeToolTip": "TorneoAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-04T02:25:21.744Z"
+              "WhenOpened": "2024-10-04T02:25:21.744Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -99,7 +100,8 @@
               "RelativeToolTip": "TorneoAPI\\Controllers\\JugadoresController.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAIwC4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T04:28:28.582Z"
+              "WhenOpened": "2024-10-02T04:28:28.582Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -111,7 +113,8 @@
               "RelativeToolTip": "TorneoAPI\\Controllers\\EquiposController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T04:21:31.733Z"
+              "WhenOpened": "2024-10-02T04:21:31.733Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -123,7 +126,8 @@
               "RelativeToolTip": "TorneoAPI\\Data\\MongoDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T00:11:44.076Z"
+              "WhenOpened": "2024-09-28T00:11:44.076Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -135,7 +139,8 @@
               "RelativeToolTip": "TorneoAPI\\Models\\Partido.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T00:10:37.886Z"
+              "WhenOpened": "2024-09-28T00:10:37.886Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -147,7 +152,8 @@
               "RelativeToolTip": "TorneoAPI\\Models\\Jugador.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T00:09:36.096Z"
+              "WhenOpened": "2024-09-28T00:09:36.096Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -159,7 +165,8 @@
               "RelativeToolTip": "TorneoAPI\\Models\\Equipo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T00:08:15.747Z"
+              "WhenOpened": "2024-09-28T00:08:15.747Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -171,7 +178,8 @@
               "RelativeToolTip": "TorneoAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T23:55:09.394Z"
+              "WhenOpened": "2024-09-27T23:55:09.394Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -183,7 +191,8 @@
               "RelativeToolTip": "TorneoAPI\\Controllers\\ResultadosController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAADwvxUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T04:29:38.864Z"
+              "WhenOpened": "2024-10-02T04:29:38.864Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -195,7 +204,8 @@
               "RelativeToolTip": "TorneoAPI\\Controllers\\PartidosController.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAmwDQAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T04:29:12.457Z"
+              "WhenOpened": "2024-10-02T04:29:12.457Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -207,7 +217,8 @@
               "RelativeToolTip": "TorneoAPI\\Models\\Resultado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T04:20:38.879Z"
+              "WhenOpened": "2024-10-02T04:20:38.879Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -219,7 +230,8 @@
               "RelativeToolTip": "TorneoAPI\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T23:55:02.525Z"
+              "WhenOpened": "2024-09-27T23:55:02.525Z",
+              "EditorCaption": ""
             }
           ]
         }

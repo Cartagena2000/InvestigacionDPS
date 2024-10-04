@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("943c0a66-d87b-43dc-98b5-c46b674334d0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("TorneoAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87c40c0728c1635947f7e8a9740f6dbbe0a55e3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("TorneoAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TorneoAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

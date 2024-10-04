@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Escritorio\\TorneoAPI\\TorneoAPI\\TorneoAPI.csproj": {}
+    "C:\\Users\\Lucas\\Documents\\InvestigacionDPS\\TorneoAPI\\TorneoAPI\\TorneoAPI.csproj": {}
   },
   "projects": {
-    "D:\\Escritorio\\TorneoAPI\\TorneoAPI\\TorneoAPI.csproj": {
+    "C:\\Users\\Lucas\\Documents\\InvestigacionDPS\\TorneoAPI\\TorneoAPI\\TorneoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Escritorio\\TorneoAPI\\TorneoAPI\\TorneoAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Lucas\\Documents\\InvestigacionDPS\\TorneoAPI\\TorneoAPI\\TorneoAPI.csproj",
         "projectName": "TorneoAPI",
-        "projectPath": "D:\\Escritorio\\TorneoAPI\\TorneoAPI\\TorneoAPI.csproj",
-        "packagesPath": "C:\\Users\\ANGEL\\.nuget\\packages\\",
-        "outputPath": "D:\\Escritorio\\TorneoAPI\\TorneoAPI\\obj\\",
+        "projectPath": "C:\\Users\\Lucas\\Documents\\InvestigacionDPS\\TorneoAPI\\TorneoAPI\\TorneoAPI.csproj",
+        "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lucas\\Documents\\InvestigacionDPS\\TorneoAPI\\TorneoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Visual\\Componentes\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ANGEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -50,6 +50,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.8, )"
@@ -59,6 +63,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.21.0, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
@@ -96,7 +104,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
