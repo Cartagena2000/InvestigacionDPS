@@ -1,9 +1,9 @@
 Investigacion aplicada 2 DPS 
 Integrantes:
--Jose Angel Cartagena Rivera CR190362
--Jeanluca Chavez Flores CF190725
--Karla Lisette Mejia Ortiz MO190663
--Angel Guillermo Sanchez mangandi SM192656
+- Jose Angel Cartagena Rivera CR190362
+- Jeanluca Chavez Flores CF190725
+- Karla Lisette Mejia Ortiz MO190663
+- Angel Guillermo Sanchez mangandi SM192656
 
 ■ Instrucciones claras sobre cómo configurar y construir el 
 contenedor Docker de la API.
