@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Escritorio\\TorneoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E606ABF-C8FC-40CA-94EE-17D66CA7FF3F}|TorneoAPI\\TorneoAPI.csproj|d:\\escritorio\\torneoapi\\torneoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E606ABF-C8FC-40CA-94EE-17D66CA7FF3F}|TorneoAPI\\TorneoAPI.csproj|solutionrelative:torneoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E606ABF-C8FC-40CA-94EE-17D66CA7FF3F}|TorneoAPI\\TorneoAPI.csproj|d:\\escritorio\\torneoapi\\torneoapi\\data\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E606ABF-C8FC-40CA-94EE-17D66CA7FF3F}|TorneoAPI\\TorneoAPI.csproj|solutionrelative:torneoapi\\data\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E606ABF-C8FC-40CA-94EE-17D66CA7FF3F}|TorneoAPI\\TorneoAPI.csproj|d:\\escritorio\\torneoapi\\torneoapi\\controllers\\resultadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E606ABF-C8FC-40CA-94EE-17D66CA7FF3F}|TorneoAPI\\TorneoAPI.csproj|solutionrelative:torneoapi\\controllers\\resultadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E606ABF-C8FC-40CA-94EE-17D66CA7FF3F}|TorneoAPI\\TorneoAPI.csproj|d:\\escritorio\\torneoapi\\torneoapi\\controllers\\partidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E606ABF-C8FC-40CA-94EE-17D66CA7FF3F}|TorneoAPI\\TorneoAPI.csproj|solutionrelative:torneoapi\\controllers\\partidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E606ABF-C8FC-40CA-94EE-17D66CA7FF3F}|TorneoAPI\\TorneoAPI.csproj|d:\\escritorio\\torneoapi\\torneoapi\\controllers\\jugadorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E606ABF-C8FC-40CA-94EE-17D66CA7FF3F}|TorneoAPI\\TorneoAPI.csproj|solutionrelative:torneoapi\\controllers\\jugadorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E606ABF-C8FC-40CA-94EE-17D66CA7FF3F}|TorneoAPI\\TorneoAPI.csproj|d:\\escritorio\\torneoapi\\torneoapi\\controllers\\equiposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E606ABF-C8FC-40CA-94EE-17D66CA7FF3F}|TorneoAPI\\TorneoAPI.csproj|solutionrelative:torneoapi\\controllers\\equiposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E606ABF-C8FC-40CA-94EE-17D66CA7FF3F}|TorneoAPI\\TorneoAPI.csproj|d:\\escritorio\\torneoapi\\torneoapi\\models\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E606ABF-C8FC-40CA-94EE-17D66CA7FF3F}|TorneoAPI\\TorneoAPI.csproj|solutionrelative:torneoapi\\models\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E606ABF-C8FC-40CA-94EE-17D66CA7FF3F}|TorneoAPI\\TorneoAPI.csproj|d:\\escritorio\\torneoapi\\torneoapi\\models\\resultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E606ABF-C8FC-40CA-94EE-17D66CA7FF3F}|TorneoAPI\\TorneoAPI.csproj|solutionrelative:torneoapi\\models\\resultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E606ABF-C8FC-40CA-94EE-17D66CA7FF3F}|TorneoAPI\\TorneoAPI.csproj|d:\\escritorio\\torneoapi\\torneoapi\\models\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E606ABF-C8FC-40CA-94EE-17D66CA7FF3F}|TorneoAPI\\TorneoAPI.csproj|solutionrelative:torneoapi\\models\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E606ABF-C8FC-40CA-94EE-17D66CA7FF3F}|TorneoAPI\\TorneoAPI.csproj|d:\\escritorio\\torneoapi\\torneoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E606ABF-C8FC-40CA-94EE-17D66CA7FF3F}|TorneoAPI\\TorneoAPI.csproj|solutionrelative:torneoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E606ABF-C8FC-40CA-94EE-17D66CA7FF3F}|TorneoAPI\\TorneoAPI.csproj|d:\\escritorio\\torneoapi\\torneoapi\\models\\partido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E606ABF-C8FC-40CA-94EE-17D66CA7FF3F}|TorneoAPI\\TorneoAPI.csproj|solutionrelative:torneoapi\\models\\partido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E606ABF-C8FC-40CA-94EE-17D66CA7FF3F}|TorneoAPI\\TorneoAPI.csproj|d:\\escritorio\\torneoapi\\torneoapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E606ABF-C8FC-40CA-94EE-17D66CA7FF3F}|TorneoAPI\\TorneoAPI.csproj|solutionrelative:torneoapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Escritorio\\TorneoAPI\\TorneoAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TorneoAPI\\appsettings.json",
+              "ToolTip": "D:\\Escritorio\\TorneoAPI\\TorneoAPI\\appsettings.json",
+              "RelativeToolTip": "TorneoAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T02:25:21.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JugadoresController.cs",
+              "DocumentMoniker": "D:\\Escritorio\\TorneoAPI\\TorneoAPI\\Controllers\\JugadoresController.cs",
+              "RelativeDocumentMoniker": "TorneoAPI\\Controllers\\JugadoresController.cs",
+              "ToolTip": "D:\\Escritorio\\TorneoAPI\\TorneoAPI\\Controllers\\JugadoresController.cs",
+              "RelativeToolTip": "TorneoAPI\\Controllers\\JugadoresController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAIwC4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:28:28.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EquiposController.cs",
+              "DocumentMoniker": "D:\\Escritorio\\TorneoAPI\\TorneoAPI\\Controllers\\EquiposController.cs",
+              "RelativeDocumentMoniker": "TorneoAPI\\Controllers\\EquiposController.cs",
+              "ToolTip": "D:\\Escritorio\\TorneoAPI\\TorneoAPI\\Controllers\\EquiposController.cs",
+              "RelativeToolTip": "TorneoAPI\\Controllers\\EquiposController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:21:31.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MongoDbContext.cs",
+              "DocumentMoniker": "D:\\Escritorio\\TorneoAPI\\TorneoAPI\\Data\\MongoDbContext.cs",
+              "RelativeDocumentMoniker": "TorneoAPI\\Data\\MongoDbContext.cs",
+              "ToolTip": "D:\\Escritorio\\TorneoAPI\\TorneoAPI\\Data\\MongoDbContext.cs",
+              "RelativeToolTip": "TorneoAPI\\Data\\MongoDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T00:11:44.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Partido.cs",
+              "DocumentMoniker": "D:\\Escritorio\\TorneoAPI\\TorneoAPI\\Models\\Partido.cs",
+              "RelativeDocumentMoniker": "TorneoAPI\\Models\\Partido.cs",
+              "ToolTip": "D:\\Escritorio\\TorneoAPI\\TorneoAPI\\Models\\Partido.cs",
+              "RelativeToolTip": "TorneoAPI\\Models\\Partido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T00:10:37.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "D:\\Escritorio\\TorneoAPI\\TorneoAPI\\Models\\Jugador.cs",
+              "RelativeDocumentMoniker": "TorneoAPI\\Models\\Jugador.cs",
+              "ToolTip": "D:\\Escritorio\\TorneoAPI\\TorneoAPI\\Models\\Jugador.cs",
+              "RelativeToolTip": "TorneoAPI\\Models\\Jugador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T00:09:36.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Equipo.cs",
+              "DocumentMoniker": "D:\\Escritorio\\TorneoAPI\\TorneoAPI\\Models\\Equipo.cs",
+              "RelativeDocumentMoniker": "TorneoAPI\\Models\\Equipo.cs",
+              "ToolTip": "D:\\Escritorio\\TorneoAPI\\TorneoAPI\\Models\\Equipo.cs",
+              "RelativeToolTip": "TorneoAPI\\Models\\Equipo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T00:08:15.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Escritorio\\TorneoAPI\\TorneoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TorneoAPI\\Program.cs",
+              "ToolTip": "D:\\Escritorio\\TorneoAPI\\TorneoAPI\\Program.cs",
+              "RelativeToolTip": "TorneoAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:55:09.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResultadosController.cs",
+              "DocumentMoniker": "D:\\Escritorio\\TorneoAPI\\TorneoAPI\\Controllers\\ResultadosController.cs",
+              "RelativeDocumentMoniker": "TorneoAPI\\Controllers\\ResultadosController.cs",
+              "ToolTip": "D:\\Escritorio\\TorneoAPI\\TorneoAPI\\Controllers\\ResultadosController.cs",
+              "RelativeToolTip": "TorneoAPI\\Controllers\\ResultadosController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvxUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:29:38.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PartidosController.cs",
+              "DocumentMoniker": "D:\\Escritorio\\TorneoAPI\\TorneoAPI\\Controllers\\PartidosController.cs",
+              "RelativeDocumentMoniker": "TorneoAPI\\Controllers\\PartidosController.cs",
+              "ToolTip": "D:\\Escritorio\\TorneoAPI\\TorneoAPI\\Controllers\\PartidosController.cs",
+              "RelativeToolTip": "TorneoAPI\\Controllers\\PartidosController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAmwDQAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:29:12.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Resultado.cs",
+              "DocumentMoniker": "D:\\Escritorio\\TorneoAPI\\TorneoAPI\\Models\\Resultado.cs",
+              "RelativeDocumentMoniker": "TorneoAPI\\Models\\Resultado.cs",
+              "ToolTip": "D:\\Escritorio\\TorneoAPI\\TorneoAPI\\Models\\Resultado.cs",
+              "RelativeToolTip": "TorneoAPI\\Models\\Resultado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:20:38.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Escritorio\\TorneoAPI\\TorneoAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TorneoAPI\\WeatherForecast.cs",
+              "ToolTip": "D:\\Escritorio\\TorneoAPI\\TorneoAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "TorneoAPI\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:55:02.525Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
