@@ -1,5 +1,5 @@
-Investigacion aplicada 2 DPS 
-Integrantes:
+Investigacion aplicada 2 DPS.
+# Integrantes:
 - Jose Angel Cartagena Rivera CR190362
 - Jeanluca Chavez Flores CF190725
 - Karla Lisette Mejia Ortiz MO190663
