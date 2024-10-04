@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TorneoAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87c40c0728c1635947f7e8a9740f6dbbe0a55e3a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23e3a52f466589ad7158e05d10759c05484e62e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("TorneoAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TorneoAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
