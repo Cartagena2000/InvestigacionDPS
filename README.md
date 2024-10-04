@@ -57,3 +57,15 @@ docker stop TorneoAPI
 
 ■ Pasos para probar la funcionalidad de la API dentro del contenedor 
 Docker.
+
+■ Funcionamiento de la API
+
+Una vez iniciada la API podemos verificar su funcionamiento, empezamos agregando un “Equipo” con el Método POST, llenamos los espacios: "id": 0, y "nombre": "string", Podemos asignar un id cualquiera para el equipo, también podemos ver los Equipos agregados en la Base con el método GET. 
+
+Para agregar un “jugador” igual tenemos que utilizar el método POST, Agregamos un id para el jugador, y también tenemos que agregar el id del equipo al que pertenece, además del nombre y la edad del jugador. 
+
+Para la Tabla de “Partidos” vamos a utilizar los id de los dos equipos que se enfrentan, también la ahora y fecha en la que se va a jugar el partido. También se deberá agregar un id propio al partido, este se va a relaciona con la tabla de Resultados. 
+
+Para los “Resultados” utilizaremos del id del partido, y vamos a agregar los goles del equipo visitante y del equipo local, además podemos escribir algunas observaciones del partido. 
+
+NOTA: Todas las Tablas tienen los métodos DELET Y PUT por id que sirven para borrar o editar un dato especifico de la tabla. 
