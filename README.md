@@ -42,21 +42,18 @@ Con el siguiente comando podemos verificar la imagenes de docker creadas:
 
 docker images
 
-Te devolvera algo similar a lo siguiente:
-REPOSITORY                        TAG       IMAGE ID       CREATED        SIZE
-torneoapi                         dev       d907cbd9318e   24 hours ago   217MB
-mcr.microsoft.com/dotnet/aspnet   8.0       ebf2935462ac   6 days ago     217MB
-
 Con el siguiente comando podemos verificar que el contenedor este corriendo:
-(el contenedor va aparecer cuando ejecutemos el proyecto en visual Studio, si detenemos la ejecución el contenedor desaparecera)
+(El contenedor va aparecer cuando ejecutemos el proyecto en visual Studio, el lo crea automaticamente al realizar la ejecución)
 
 docker ps
 
-Te devolvera algo similar a lo siguiente:
+Con el siguiente comando podemos ejecutar nuestro contenedor Docker manualmente, por si queremos unicamente consultar la api a traves de otra app por ejemplo postman:
 
-CONTAINER ID   IMAGE           COMMAND                  CREATED         STATUS         PORTS                                              NAMES
-b429ef4b5d05   torneoapi:dev   "dotnet --roll-forwa…"   2 seconds ago   Up 2 seconds   0.0.0.0:32774->8080/tcp, 0.0.0.0:32775->8081/tcp   TorneoAPI
+docker start TorneoAPI
 
+Con este otro comando podemos detener nuestro contenedor:
+
+docker stop TorneoAPI
 
 ■ Pasos para probar la funcionalidad de la API dentro del contenedor 
 Docker.
